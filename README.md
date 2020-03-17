@@ -1,6 +1,8 @@
 # pemf
 Pulsed Electromagnetic Field device
 
+This is a pseudo-sciency medical device you can build yourself for a fraction of the cost of buying one from a company, and when you decide it doesn't actually work you can reuse the components for something fun.
+
 ## Buy
 
 - https://www.adafruit.com/product/3333
