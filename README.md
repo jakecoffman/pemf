@@ -13,9 +13,11 @@ This is a pseudo-sciency medical device you can build yourself for a fraction of
 ## Install
 
 - Arduino software
+- Attach the board via USB, it should automatically install software for the board
 - Select Tools -> Board -> Adafruit Circuit Playground Express... **not** Adafruit Circuit Playground -- that is apparently different
+- Select Sketch -> Include Libary -> Manage Libraries and search for `seesaw`, install the library that appears there
+- Select Tools -> Port and select the correct port (Serial USB?)
 - Open `pemf.ino`
-- Attach the board via USB
 - Click upload
 
 Try Googling a bunch too, there's 900 tutorials on how to use these things.
